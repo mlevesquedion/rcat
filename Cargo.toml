@@ -1,0 +1,6 @@
+[package]
+name = "rcat"
+version = "0.1.0"
+authors = ["Michaël Lévesque-Dion <michael.levesque-dion.1@ulaval.ca>"]
+
+[dependencies]
